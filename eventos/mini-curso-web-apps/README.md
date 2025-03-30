@@ -40,8 +40,6 @@ Este evento foi mais do que compartilhar conhecimento — foi sobre fomentar ino
 
 ## 🖼️ Galeria de Imagens
 
-Substitua as imagens abaixo após o upload na pasta do projeto:
-
 ![Imagem 1 - Introdução ao minicurso](./imagens/img1.JPG)
 ![Imagem 2 - Turma e dinâmica prática](./imagens/img2.JPG)
 ![Imagem 3 - Encerramento e certificados](./imagens/img3.JPG)
