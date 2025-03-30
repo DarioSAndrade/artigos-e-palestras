@@ -42,12 +42,12 @@ Este evento foi mais do que compartilhar conhecimento — foi sobre fomentar ino
 
 Substitua as imagens abaixo após o upload na pasta do projeto:
 
-![Imagem 1 - Introdução ao minicurso](./imagens/img1.jpg)
-![Imagem 2 - Turma e dinâmica prática](./imagens/img2.jpg)
-![Imagem 3 - Encerramento e certificados](./imagens/img3.jpg)
-![Imagem 1 - Introdução ao minicurso](./imagens/img4.jpg)
-![Imagem 2 - Turma e dinâmica prática](./imagens/img5.jpg)
-![Imagem 3 - Encerramento e certificados](./imagens/img6.jpg)
+![Imagem 1 - Introdução ao minicurso](./imagens/img1.JPG)
+![Imagem 2 - Turma e dinâmica prática](./imagens/img2.JPG)
+![Imagem 3 - Encerramento e certificados](./imagens/img3.JPG)
+![Imagem 1 - Introdução ao minicurso](./imagens/img4.JPG)
+![Imagem 2 - Turma e dinâmica prática](./imagens/img5.JPG)
+![Imagem 3 - Encerramento e certificados](./imagens/img6.JPG)
 
 ---
 
